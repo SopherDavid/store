@@ -1,0 +1,21 @@
+.Circle {
+   height: 90px;
+   width: 90px;
+   border: solid red 10px;
+   border-radius: 50%;
+   box-sizing: border-box;
+   justify-content: center;
+   align-items: center;
+   
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border: solid black 2px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
